@@ -17,17 +17,17 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "100089627205102",
+    "61572240295227",
     ""
   ],
   "whiteListMode": {
     "enable": false,
-    "whiteListIds": [ "100005193854879"
+    "whiteListIds": [ "61572240295227"
     ],
     "notes": " Don't chng wlt uid okh"
   },
-  "nickNameBot": "xᴛ-ʙᴏᴛ",
-  "prefix": ".",
+  "nickNameBot": "𝗞𝗮𝗸𝗮𝘀𝗵𝗶 𝗯𝗼𝘁"",
+  "prefix": "/",
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
